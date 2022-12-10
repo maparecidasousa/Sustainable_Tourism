@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5912099f-bf12-4c51-9421-69e5743bff5f",
+    "name": "Verdegreen Hotel",
+    "contact": "(83)3044-0006",
+    "address": "Av. João Maurício, 255 - Manaíra",
+    "city": "João Pessoa",
+    "state": "PB",
+    "affiliationONG": "",
+    "sustainabilityCertificate": "Trevo verde",
+    "sustainableActions": ["Iluminação natural", "Aluguel de bicicleta", "Horta orgânica"]
+  },
+
+  {
+    "id": "8f637859-8cba-47da-97a6-c0bc42fb5125",
+    "name": "Ecco Hotel",
+    "contact": "(83) 3034-4793",
+    "address": "Avenida Governador Argemiro de Figueiredo, 3197 - Jardim Oceania",
+    "city": "João Pessoa",
+    "state": "PB",
+    "affiliationONG": "",
+    "sustainabilityCertificate": "",
+    "sustainableActions": ["Lâmpadas de baixo consumo", "Sistema de captação de água da chuva", "Empregos à comunidade"]
+  },
+
+  {
+    "id": "783b3c40-3db1-4b14-a544-cc925a04aeb8",
+    "name": "Hotel Cabo Branco Atlântico",
+    "contact": "(83)3507-2502",
+    "address": "Avenida Cabo Branco, 4550",
+    "city": "Campina Grande",
+    "state": "PB",
+    "affiliationONG": "",
+    "sustainabilityCertificate": "",
+    "sustainableActions": ["Aluguel de bicicleta", "Embalagens descartáveis não são utilizadas"]
+  },
+
+  {
+    "id": "783b3c40-3db1-4b14-a544-cc925a04aeb9",
+    "name": "Numar Hotel",
+    "contact": "(83) 3034-4793",
+    "address": "Argemiro de Figueiredo, 3197",
+    "city": "João Pessoa",
+    "state": "PB",
+    "affiliationONG": "",
+    "sustainabilityCertificate": "",
+    "sustainableActions": ["Aluguel de bicicleta", "Horta orgânica"]
+  }
+    
+]

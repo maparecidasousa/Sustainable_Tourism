@@ -1,0 +1,39 @@
+[
+    {
+      "id": "6bac7a1a-1a66-4e9e-b3d0-ba772f60f42e",
+      "name": "Aparecida Sousa",
+      "product": "Quadros ilustrados",
+      "contact": "(83)99976-4684",
+      "address": "Av. Epitácio Pessoa, 222 - Cabo Branco",
+      "city": "João Pessoa",
+      "state": "PB",
+      "openingHours":"08:00 ás 17:00",
+      "damageNature":false
+    },
+  
+    {
+      "id": "40b96697-98d7-41ae-b07f-b4f06b19b4d6",
+      "name": " Ana Cláudia",
+      "product": "Bolsas artesanais",
+      "contact": "(83)97657-6571",
+      "address": "Pedro Firmino, 4002 - Bessa",
+      "city": "João Pessoa",
+      "state": "PB",
+      "openingHours":"08:00 as 14:00",
+      "damageNature":false
+    },
+  
+    {
+      "id": "0445bad7-93ac-4ca1-946f-5b5f1a5791a5",
+      "name": "Ana Furtado",
+      "product": "Produtos regionais",
+      "contact": "(83)99693-1550",
+      "address": "Avenida Cabo Branco, 2220",
+      "city": "Campina Grande",
+      "state": "PB",
+      "openingHours":"08:00 ás 17:00",
+      "damageNature":false
+   
+    }
+  ]
+  

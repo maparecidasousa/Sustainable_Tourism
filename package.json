@@ -1,0 +1,17 @@
+{
+  "name": "projeto_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./Sustainable_Tourism/index.js",
+    "test": "npx jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1",
+    "readline-sync": "^1.4.10",
+    "uuid": "^9.0.0"
+  }
+}
